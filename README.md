@@ -8,5 +8,5 @@
 - [x] Constants
 - [x] Abstract Class
 - [x] Interfaces
-- [ ] Traits
+- [x] Traits
 - [ ] Static Methods
