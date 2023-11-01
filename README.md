@@ -10,3 +10,4 @@
 - [x] Interfaces
 - [x] Traits
 - [x] Static Methods
+- [x] Static Properties
