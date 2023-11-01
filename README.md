@@ -7,6 +7,6 @@
 - [x] Access Modifers
 - [x] Constants
 - [x] Abstract Class
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Traits
 - [ ] Static Methods
