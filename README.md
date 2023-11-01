@@ -11,3 +11,4 @@
 - [x] Traits
 - [x] Static Methods
 - [x] Static Properties
+- [x] Namespace
