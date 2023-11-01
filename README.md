@@ -9,4 +9,4 @@
 - [x] Abstract Class
 - [x] Interfaces
 - [x] Traits
-- [ ] Static Methods
+- [x] Static Methods
