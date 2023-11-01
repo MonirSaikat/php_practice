@@ -5,7 +5,7 @@
 - [x] Destructor
 - [x] Inheritence
 - [x] Access Modifers
-- [ ] Constants
+- [x] Constants
 - [ ] Abstract Class
 - [ ] Interfaces
 - [ ] Traits
