@@ -6,7 +6,7 @@
 - [x] Inheritence
 - [x] Access Modifers
 - [x] Constants
-- [ ] Abstract Class
+- [x] Abstract Class
 - [ ] Interfaces
 - [ ] Traits
 - [ ] Static Methods
