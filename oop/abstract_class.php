@@ -1,8 +1,15 @@
 <?php
 
+/**
+ * In PHP, an abstract class is a class that cannot be instantiated on its own and is meant to be subclassed by other 
+ * classes. It may contain abstract methods, concrete methods and properties.  
+ * 
+ * Note: abstract properties introduced in PHP >=8.0
+ */
+
 abstract class Shape
 {
-  // abstact method
+  // abstract method
   abstract public function getArea();
 
   // concrete method
@@ -50,4 +57,4 @@ $circle = new Cirlce(10.4);
 echo $circle->getArea() . PHP_EOL;
 
 $square = new Square(10);
-$square->getDetails(); // concrete method from the abstact class
+$square->getDetails(); // concrete method from the abstract class
