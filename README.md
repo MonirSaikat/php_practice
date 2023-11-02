@@ -13,3 +13,4 @@
 - [x] Static Properties
 - [x] Namespace
 - [x] Final Keyword
+- [ ] Magic Methods
