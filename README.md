@@ -3,8 +3,8 @@
 #### OOP
 - [x] Constructor
 - [x] Destructor
-- [x] Inheritence
-- [x] Access Modifers
+- [x] Inheritance
+- [x] Access Modifiers
 - [x] Constants
 - [x] Abstract Class
 - [x] Interfaces
